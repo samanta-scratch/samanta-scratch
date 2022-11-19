@@ -1,7 +1,5 @@
 # 💫 About Me:
-- 👀 I’m interested in Data Science, Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning, NLP
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning
+👀 I’m interested in Data Science, Artificial Intelligence<br>🌱 I’m currently learning Deep Learning, NLP<br>💞️ I’m looking to collaborate on Machine Learning, Deep Learning
 
 
 ## 🌐 Socials:
@@ -15,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samanta-scratch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samanta-scratch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=samanta-scratch&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
