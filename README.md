@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/competition/dark" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/dataset/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/discussion/light" />
