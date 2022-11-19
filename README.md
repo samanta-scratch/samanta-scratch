@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 👀 I’m interested in Data Science, Artificial Intelligence<br>- 🌱 I’m currently learning Deep Learning, NLP<br>- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning
+- 👀 I’m interested in Data Science, Artificial Intelligence
+<br>
+- 🌱 I’m currently learning Deep Learning, NLP
+<br>
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning
 
 
 ## 🌐 Socials:
