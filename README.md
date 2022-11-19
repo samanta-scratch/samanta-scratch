@@ -1,6 +1,12 @@
 # 💫 About Me:
 👀 I’m interested in Data Science, Artificial Intelligence<br>🌱 I’m currently learning Deep Learning, NLP<br>💞️ I’m looking to collaborate on Machine Learning, Deep Learning
 
+<p align="center">
+
+  <br/>
+  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
+ 
+</p>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/dataset)
