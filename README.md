@@ -8,10 +8,12 @@
  
 </p>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farjanakabirsamanta/discussion)
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/competition/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/dataset/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/notebook/light&quot; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mejbahahammad/discussion/light&quot; />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farjana.kabir.9828456) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farjana-kabir-0109011a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samanta_7890) 
