@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Farjana Kabir</h1>
+<h3 align="center">An aspiring Data Scientist</h3>
+
 ### <div align="center"> <h4> Hi,👋 I'm Farjana Kabir, an aspiring Data Scientist 👨‍💻 </h4> </div>  
 
 # 💫 About Me:
