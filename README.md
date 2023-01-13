@@ -4,7 +4,14 @@
 🔥💖 Passionate Machine Learning practitioner with experience in data driven decision making. Skilled in Python, Machine Learning, Deep Learning, SQL and NoSQL. Seeking opportunities to apply technical knowledge and analytical skills to real world problem and develop innovative Machine Learning solutions. 🔥💖  
 
 
-👀 I’m interested in Data Science & Artificial Intelligence<br>🌱 I’m currently learning to solve problem in optimized way<br>💞️ I’m looking to collaborate on Machine Learning & Data Science
+- 👀 I’m interested in Data Science & Artificial Intelligence
+- 🌱 I’m currently learning to solve problem in optimized way
+- 💞️ I’m looking to collaborate on Machine Learning & Data Science
+
+- ❓ Ask me about anything related to Data Science and Machine Learning  
+  
+
+- ⚡ Fun fact: Nothing  
 
 <p align="center">
 
