@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
+### <div align="center">I'm Farjana Kabir, a aspiring Data Scientis 👨‍💻 working remotely since 2022 🚀</div> 
 # 💫 About Me:
 🔥💖 Passionate Machine Learning practitioner with experience in data driven decision making. Skilled in Python, Machine Learning, Deep Learning, SQL and NoSQL. Seeking opportunities to apply technical knowledge and analytical skills to real world problem and develop innovative Machine Learning solutions. 🔥💖  
 
