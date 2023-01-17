@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats:
 
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samanta-scratch&show_icons=true&locale=en" alt="samanta-scratch" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samanta-scratch&show_icons=true&locale=en" alt="samanta-scratch" /></p>
 
 
 ## 🏆 GitHub Trophies
