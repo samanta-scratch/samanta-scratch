@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=samanta-scratch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=samanta-scratch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samanta-scratch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samanta-scratch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
