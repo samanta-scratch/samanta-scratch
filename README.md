@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact: Nothing  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samanta-scratch&label=Profile%20views&color=0e75b6&style=flat" alt="samanta-scratch" /> </p>
+
 
 ## 🌐 Connect with me:  
 <div align="center">
