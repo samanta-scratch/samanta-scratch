@@ -44,7 +44,7 @@
 
 <br/>  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=samanta-scratch&theme=radial&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samanta-scratch&theme=dark&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
