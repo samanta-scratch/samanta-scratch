@@ -45,7 +45,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samanta-scratch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanta-scratch" alt="samanta-scratch" /></a> </p>
 
 
 ### ✍️ Random Dev Quote
