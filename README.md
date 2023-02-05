@@ -40,12 +40,11 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samanta-scratch&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samanta-scratch&show_icons=true&count_private=true&hide_border=true"  />  
 
 <br/>  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samanta-scratch&theme=dark&hide_border=false)<br/>
-![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=Sankha1998&show_icons=true&theme=radical)
 
 
 ## 🏆 GitHub Trophies
