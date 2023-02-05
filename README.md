@@ -45,6 +45,7 @@
 <br/>  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samanta-scratch&theme=dark&hide_border=false)<br/>
+![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=Sankha1998&show_icons=true&theme=radical)
 
 
 ## 🏆 GitHub Trophies
