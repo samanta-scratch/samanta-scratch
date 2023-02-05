@@ -50,7 +50,7 @@
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanta-scratch" alt="samanta-scratch" /></a> </p>
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
