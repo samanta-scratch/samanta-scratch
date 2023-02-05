@@ -19,7 +19,7 @@
 
 
 ## 🌐 Connect with me:  
-<div align="center">
+
 <a href="https://twitter.com/samanta_7890" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -32,7 +32,7 @@
 <a href="https://www.facebook.com/farjana.kabir.9828456" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-</div>  
+ 
 <br>
 
 ## 💻 Languages and Tools: 
