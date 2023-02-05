@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Farjana Kabir</h1>
-<h3 align="center">An aspiring Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Farjana Kabir(Samanta)</h1>
+<h3 align="center">A Data Enthusiast</h3>
 
 
 # 💫 About Me:
