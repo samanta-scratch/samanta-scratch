@@ -45,7 +45,7 @@
 <br/>  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samanta-scratch&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanta-scratch&layout=compact&show_icons=true&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanta-scratch" alt="samanta-scratch" /></a> </p>
