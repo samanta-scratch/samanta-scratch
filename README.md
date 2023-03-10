@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farjana Kabir(Samanta)</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
+
 ![Data](https://user-images.githubusercontent.com/113231185/224225695-15e95f1d-4e78-4fd1-948d-127ee167be2a.gif)
 
 
