@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 <p align="center">
-    <img width="200" src="Data.gif" alt="Material Bread logo">
+    <img src="Data.gif" alt="Material Bread logo">
 </p>
 
 <img src="Data.gif" align="center"> 
