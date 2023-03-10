@@ -2,6 +2,9 @@
 <h3 align="center">An Aspiring Data Scientist</h3>
 
 # 💫 About Me:
+
+<img src="Data.gif">
+
 🔥💖 Passionate Machine Learning practitioner with experience in data driven decision making. Skilled in Python, Machine Learning, Deep Learning, SQL and NoSQL. Seeking opportunities to apply technical knowledge and analytical skills to real world problem and develop innovative Machine Learning solutions. 🔥💖  
 
 
