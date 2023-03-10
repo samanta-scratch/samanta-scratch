@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-<img src="Data.gif" class="center"> 
+<img src="Data.gif" height="150" width="200"> 
 
 🔥💖 Passionate Machine Learning practitioner with experience in data driven decision making. Skilled in Python, Machine Learning, Deep Learning, SQL and NoSQL. Seeking opportunities to apply technical knowledge and analytical skills to real world problem and develop innovative Machine Learning solutions. 🔥💖  
 
