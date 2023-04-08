@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farjana Kabir(Samanta)</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">A Junior Data Scientist</h3>
 
 # 💫 About Me:
 
@@ -11,7 +11,7 @@
 
 
 - 👀 I’m interested in Data Science & Artificial Intelligence
-- 🌱 I’m currently learning to solve problem in optimized way
+- 🌱 I’m currently working as a Junior Data Scientist at Somikoron
 - 💞️ I’m looking to collaborate on Machine Learning & Data Science
 
 - ❓ Ask me about anything related to Data Science and Machine Learning  
