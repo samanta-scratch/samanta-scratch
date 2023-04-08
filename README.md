@@ -7,7 +7,7 @@
     <img src="Data.gif" alt="Material Bread logo">
 </p>
 
-🔥💖 Passionate Machine Learning practitioner with experience in data driven decision making. Skilled in Python, Machine Learning, Deep Learning, SQL and NoSQL. Seeking opportunities to apply technical knowledge and analytical skills to real world problem and develop innovative Machine Learning solutions. 🔥💖  
+🔥💖 Passionate Data Science practitioner with experience in data driven decision making. Skilled in Python, Machine Learning, Deep Learning, SQL, NoSQL and Web Scraping. Seeking opportunities to apply technical knowledge and analytical skills to real world problem and develop innovative Data Science solutions. 🔥💖  
 
 
 - 👀 I’m interested in Data Science & Artificial Intelligence
