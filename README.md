@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanta-scratch&label=Profile%20views&color=0e75b6&style=flat" alt="samanta-scratch" /> </p>
 
-
+<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?farjanakabirsamanta" alt="Hsiang's Kaggle Summary Card">
 ## 🌐 Connect with me:  
 
 <a href="https://twitter.com/samanta_7890" target="_blank">
