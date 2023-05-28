@@ -11,7 +11,7 @@
 
 
 - 👀 I’m interested in Data Science & Artificial Intelligence
-- 🌱 I’m currently working as a Junior Data Scientist at Somikoron
+- 🌱 I’m currently working as a Data Scientist at Somikoron
 - 💞️ I’m looking to collaborate on Machine Learning & Data Science
 
 - ❓ Ask me about anything related to Data Science and Machine Learning  
